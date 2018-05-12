@@ -6,20 +6,27 @@ Inter Pocket Knowledge Network
 
 This README would normally document whatever steps are necessary to get your application up and running.
 
-What is this repository for?
-Quick summary this is the basic version of a full fledged language that adysenlab vevo is required to produce my the offset of summer 2018
+#What is this repository for?
+this is a proposal Stateful data store from the makers of future of Intelligence 
+
 Version current at beta :: 0.001.0 [Refer to license ]
+
 Learn Markdown
-How do I get set up?
+# How do I get set up?
 Summary of set up A test language that you can play with have fun and research on. Do return back to us with suggestions and we would be happy for the help and maybe meet for coffee.
 
 Configuration the set of files can be built by cmake - makefile generator for the project source code select the build location of the source codes and try command
 
-Dependencies c++ language compiler and cmake build generator but we are gearing towards LLVM code generation in the near future
+#Dependencies
+ c++ language compiler and cmake build generator 
+but we are gearing towards Eigen and Wired Tiger in the near future
 
-Database configuration none as of now and we are planning for a dedicative storage referal engine
+#Database configuration 
+none as of now and we are planning for a deductive storage {{ inference routing }} engine
 
-How to run tests currently not added
+#How to run tests 
+
+currently not added
 
 Deployment instructions
 
